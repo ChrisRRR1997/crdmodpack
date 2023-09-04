@@ -9,5 +9,4 @@ Changelog.
 > Einen Bug behoben indem Chiseled Bits (Chisel & Bits) Blöcke verbuggt waren.
 - FancyBlockOverlay entfernt.
 - MoBends Mod entfernt.
-- 
-
+> Einer dieser Mods verursachte das Problem.
