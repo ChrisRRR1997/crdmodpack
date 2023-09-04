@@ -5,7 +5,9 @@ Changelog.
 + Beta Plus Mod hinzugefügt.
 + Chunk Animator hinzugefügt.
 + Chisel & Bits Mod wieder hinzugefügt.
++ Chisel & Bits Clipboard im Kreativmenü entfernt.
 > Einen Bug behoben indem Chiseled Bits (Chisel & Bits) Blöcke verbuggt waren.
-> - FancyBlockOverlay entfernt.
-> - MoBends Mod entfernt.
+- FancyBlockOverlay entfernt.
+- MoBends Mod entfernt.
+- 
 
