@@ -6,6 +6,7 @@ Changelog.
 + Chunk Animator hinzugefügt.
 + Chisel & Bits Mod wieder hinzugefügt.
 + Chisel & Bits Clipboard im Kreativmenü entfernt.
++ Cities Deco Mod (SCM Mod) 3D Inventaritems deaktiviert.
 > Einen Bug behoben indem Chiseled Bits (Chisel & Bits) Blöcke verbuggt waren.
 - FancyBlockOverlay entfernt.
 - MoBends Mod entfernt.
