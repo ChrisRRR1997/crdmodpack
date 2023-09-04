@@ -11,3 +11,6 @@ Changelog.
 - FancyBlockOverlay entfernt.
 - MoBends Mod entfernt.
 > Einer dieser Mods verursachte das Problem.
+
+> Es sind keine weiteren Modpack Änderungen geplant!
+Ausnahme: HBM Mod Hamsters Edition (Peaceful Update)
