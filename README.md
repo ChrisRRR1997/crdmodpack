@@ -25,7 +25,6 @@ OnlinePictureFrames,
 SCM Mod,
 
 Tech Mods:
-
 Advanced Machines + Patch, 
 Advanced Solars +,
 Applied Energistics 2 Extended, 
