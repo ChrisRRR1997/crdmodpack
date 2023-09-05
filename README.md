@@ -8,7 +8,7 @@ Der Kreativität sind keine Grenzen gesetzt!
 
 Inhalt: Soon to be Listed!
 
-> Jedliche Maschinen die Schaden an Umgebung verursachen, wurden entweder so Konfiguriert das sie nicht Explodieren oder sich nicht Platzieren lassen.
+> Jedliche Maschinen die Schaden an Umgebung verursachen, wurden entweder so Konfiguriert das sie nicht Explodieren oder wenn nicht Konfigurierbar sich nicht in bestimmten Welten Platzieren lassen.
 
 Changelog 04.09.2023
 + Beta Plus Mod hinzugefügt.
