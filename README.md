@@ -22,12 +22,15 @@ More Paintings,
 Plant Mega Pack, 
 Project Vibrant Journeys,
 OnlinePictureFrames,
-SCM Mod,
+SCM Mod.
+
+Storage Mods: 
+Applied Energistics 2 Extended, 
+Storage Drawers.
 
 Tech Mods:
 Advanced Machines + Patch, 
-Advanced Solars +,
-Applied Energistics 2 Extended, 
+Advanced Solars + Patch, 
 Botania,
 Buildcraft, 
 Computercraft Tweaked, 
