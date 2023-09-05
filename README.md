@@ -7,6 +7,7 @@
 
 ChrisRolltDasModpack kurz (CRDM)
 Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
+Sowohl als auch Performance & Quality of Life Improvements.
 
 Modliste: Soon to be Listed!
 
@@ -19,8 +20,6 @@ Changelog 04.09.2023
 > Einen Bug behoben indem Chiseled Bits (Chisel & Bits) Blöcke verbuggt waren.
 - FancyBlockOverlay entfernt.
 - MoBends Mod entfernt.
-
-> Eine VÖ meines Modpacks wird nicht eintreten.
 
 > ChrisRolltDasModpack 2021 - 2023 ChrisRolltDasR
 > Minecraft is Copyright by Mojang AB and Microsoft.
