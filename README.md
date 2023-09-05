@@ -35,7 +35,7 @@ Botania,
 Buildcraft, 
 Computercraft Tweaked, 
 Draconic Evolution, 
-EnergyControl, 
+EnergyControl + DE Lang Patch by CRDR
 Extra Utilites, 
 IndustrialCraft2, 
 GregTech Experimental, 
