@@ -9,23 +9,23 @@ Der Kreativität sind keine Grenzen gesetzt!
 Inhalt:
 Tech Mods:
 
-Advanced Machines + Patch
-Advanced Solars +
-Applied Energistics 2 Extended Life
-Computercraft Tweaked
-Draconic Evolution
-EnergyControl
-IndustrialCraft2 
-GregTech Experimental
-IndustrialUpgrade
-Hbm's Nuclear Tech - Hamster Reloaded
-Extreme Reactors
-Atomic Science
-EnderIO
-FactoryTech
-IndustrialForgoing
-IntegratedDynamics
-TechnicalLights
+Advanced Machines + Patch, 
+Advanced Solars +,
+Applied Energistics 2 Extended, 
+Computercraft Tweaked, 
+Draconic Evolution, 
+EnergyControl, 
+IndustrialCraft2, 
+GregTech Experimental, 
+IndustrialUpgrade, 
+Hbm's Nuclear Tech - Hamster Reloaded, 
+Extreme Reactors, 
+Atomic Science, 
+EnderIO, 
+FactoryTech, 
+IndustrialForgoing, 
+IntegratedDynamics, 
+TechnicalLights, 
 
 
 > Jedliche Maschinen die Schaden an Umgebung verursachen, wurden entweder so Konfiguriert das sie nicht Explodieren oder sich nicht Platzieren lassen.
