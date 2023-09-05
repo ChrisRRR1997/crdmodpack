@@ -18,3 +18,6 @@ Changelog 04.09.2023
 
 > Es sind keine weiteren Modpack Änderungen geplant!
 Ausnahme: HBM Mod Hamsters Edition (Peaceful Update)
+
+> ChrisRolltDasModpack 2021 - 2023 ChrisRolltDasR
+> Minecraft is Copyright by Mojang, Microsoft.
