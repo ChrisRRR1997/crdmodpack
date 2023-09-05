@@ -9,7 +9,7 @@ Der Kreativität sind keine Grenzen gesetzt!
 Inhalt:
 Tech Mods:
 
-Advanced Machines + Patcg
+Advanced Machines + Patch.
 Advanced Solars +
 Applied Energistics 2 Extended Life
 Computercraft Tweaked
