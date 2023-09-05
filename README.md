@@ -20,6 +20,8 @@ Changelog 04.09.2023
 - FancyBlockOverlay entfernt.
 - MoBends Mod entfernt.
 
+> Eine VÖ meines Modpacks wird nicht eintreten.
+
 > ChrisRolltDasModpack 2021 - 2023 ChrisRolltDasR
 > Minecraft is Copyright by Mojang AB and Microsoft.
 > All Mods belong to Respektive Mod Creators.
