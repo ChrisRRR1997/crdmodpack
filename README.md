@@ -1,9 +1,34 @@
 # ChrisRolltDasModpack 1.12.2 (Finale Edition)
+> 200 
 
 ChrisRolltDasModpack kurz (CRDM)
 ist ein Privates Minecraft - Java Edition Modpack unter Version: 1.12.2
+Und soll dem Spieler Kreativen Citybuild Erweitern und Funktionstüchtige Fabriken und mehr zu erstellen! 
+Der Kreativität sind keine Grenzen gesetzt!
 
 Inhalt:
+Tech Mods:
+
+Advanced Machines + Patcg
+Advanced Solars +
+Applied Energistics 2 Extended Life
+Computercraft Tweaked
+Draconic Evolution
+EnergyControl
+IndustrialCraft2 
+GregTech Experimental
+IndustrialUpgrade
+Hbm's Nuclear Tech - Hamster Reloaded
+Extreme Reactors
+Atomic Science
+EnderIO
+FactoryTech
+IndustrialForgoing
+IntegratedDynamics
+TechnicalLights
+
+
+> Jedliche Maschinen die Schaden an Umgebung verursachen, wurden entweder so Konfiguriert das sie nicht Explodieren oder sich nicht Platzieren lassen.
 
 Changelog 04.09.2023
 + Beta Plus Mod hinzugefügt.
