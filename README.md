@@ -57,7 +57,14 @@ SecurityCraft,
 TechnicalLights,
 TrafficControl.
 
-Performance Mods:
+PerformanceMods:
+BetterFPS
+OptiFine
+Surge
+Spark
+Sodium
+Performant
+
 
 Quality of Life Improvements:
 
