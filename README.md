@@ -1,7 +1,11 @@
 # ChrisRolltDasModpack 1.12.2 (Finale Edition)
-Update 04.09.2023
 
-Changelog.
+ChrisRolltDasModpack kurz (CRDM)
+ist ein Privates Minecraft Modpack unter Version: 1.12.2
+
+Inhalt:
+
+Changelog 04.09.2023
 + Beta Plus Mod hinzugefügt.
 + Chunk Animator hinzugefügt.
 + Chisel & Bits Mod wieder hinzugefügt.
