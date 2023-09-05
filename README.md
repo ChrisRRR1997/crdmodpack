@@ -1,4 +1,4 @@
-# ChrisRolltDasModpack
+# ChrisRolltDasModpack (CRDM)
 > MC-Version: 1.12.2
 
 > Modpack-Version: Final
@@ -6,12 +6,9 @@
 > Total Mods: 200 
 
 ChrisRolltDasModpack kurz (CRDM)
-.. ein Privates Minecraft - Java Edition Modpack.
-Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen.
-Der Kreativität sind keine Grenzen gesetzt! 🙃
+Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
 
-Inhalt: Soon to be Listed!
-
+Modliste: Soon to be Listed!
 
 Changelog 04.09.2023
 + Beta Plus Mod hinzugefügt.
