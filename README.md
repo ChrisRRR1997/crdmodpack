@@ -6,69 +6,7 @@ ist ein Privates Minecraft - Java Edition Modpack unter Version: 1.12.2
 Und soll dem Spieler Kreativen Citybuild Erweitern und Funktionstüchtige Fabriken und mehr zu erstellen! 
 Der Kreativität sind keine Grenzen gesetzt!
 
-Inhalt:
-
-Build Mods:
-Bibliocraft,
-Blockcraftery,
-Chisel,
-Chisel & Bits, 
-CocricotMod,
-Df Roads,
-Engineer's Decor,
-MrCrayfish's Furniture Mod,
-Malasis Doors, 
-More Paintings, 
-Plant Mega Pack, 
-Project Vibrant Journeys,
-OnlinePictureFrames,
-SCM Mod.
-
-Storage Mods: 
-Applied Energistics 2 Extended, 
-Storage Drawers.
-
-Tech Mods:
-Advanced Machines + Patch, 
-Advanced Solars + Patch, 
-Botania,
-Buildcraft, 
-Computercraft Tweaked, 
-Draconic Evolution, 
-EnergyControl + DE Lang Patch by CRDR, 
-Extra Utilites, 
-IndustrialCraft2, 
-GregTech Experimental, 
-IndustrialUpgrade,
-IndustrialRenewal, 
-Hbm's Nuclear Tech -  Reloaded, 
-Extreme Reactors, 
-Atomic Science, 
-EnderIO, 
-EnergyMeters, 
-FactoryTech, 
-NuclearCraft, 
-RailCraft,
-RSGauges,
-IndustrialForgoing, 
-IntegratedDynamics, 
-IntegraredTunnels,
-SecurityCraft,
-TechnicalLights,
-TrafficControl.
-
-PerformanceMods:
-BetterFPS
-OptiFine
-Surge
-Spark
-Sodium
-Performant
-
-
-Quality of Life Improvements:
-
-
+Inhalt: Soon to be Listed!
 
 > Jedliche Maschinen die Schaden an Umgebung verursachen, wurden entweder so Konfiguriert das sie nicht Explodieren oder sich nicht Platzieren lassen.
 
