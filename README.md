@@ -1,7 +1,7 @@
 # ChrisRolltDasModpack 1.12.2 (Finale Edition)
 
 ChrisRolltDasModpack kurz (CRDM)
-ist ein Privates Minecraft Modpack unter Version: 1.12.2
+ist ein Privates Minecraft - Java Edition Modpack unter Version: 1.12.2
 
 Inhalt:
 
