@@ -7,24 +7,51 @@ Und soll dem Spieler Kreativen Citybuild Erweitern und Funktionstüchtige Fabrik
 Der Kreativität sind keine Grenzen gesetzt!
 
 Inhalt:
+
+Build Mods:
+Bibliocraft,
+Blockcraftery,
+Chisel,
+Chisel & Bits, 
+CocricotMod,
+Df Roads,
+Engineer's Decor,
+MrCrayfish's Furniture Mod,
+Malasis Doors, 
+More Paintings, 
+Plant Mega Pack, 
+Project Vibrant Journeys,
+OnlinePictureFrames,
+SCM Mod,
+
 Tech Mods:
 
 Advanced Machines + Patch, 
 Advanced Solars +,
 Applied Energistics 2 Extended, 
+Botania,
+Buildcraft, 
 Computercraft Tweaked, 
 Draconic Evolution, 
 EnergyControl, 
+Extra Utilites, 
 IndustrialCraft2, 
 GregTech Experimental, 
-IndustrialUpgrade, 
-Hbm's Nuclear Tech - Hamster Reloaded, 
+IndustrialUpgrade,
+IndustrialRenewal, 
+Hbm's Nuclear Tech -  Reloaded, 
 Extreme Reactors, 
 Atomic Science, 
 EnderIO, 
+EnergyMeters, 
 FactoryTech, 
+NuclearCraft, 
+RailCraft,
+RSGauges,
 IndustrialForgoing, 
 IntegratedDynamics, 
+IntegraredTunnels,
+SecurityCraft,
 TechnicalLights, 
 
 
