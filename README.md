@@ -11,6 +11,12 @@ Sowohl als auch Performance & Quality of Life Improvements.
 
 Modliste: Soon to be Listed!
 
+Changelog 06.09.2023
++ Matter Overdrive hinzugefügt (.cfg Angepasst, kein Schaden an Welt. Der Reaktor saugt nur Items ein)
++ Lag'B'Gon Reborn (Server) hinzugefügt.
+- BetaDays (Client) entfernt.
+- ClearLagg (Server) entfernt.
+
 Changelog 04.09.2023
 + Beta Plus Mod hinzugefügt.
 + Chunk Animator hinzugefügt.
