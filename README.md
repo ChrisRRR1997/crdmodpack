@@ -12,8 +12,8 @@ Sowohl als auch Performance & Quality of Life Improvements.
 Changelog 17.10.2023
 - TheSpotlight Mod entfernt
 - HBM Nuclear Tech Mod entfernt (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
-+ UntranslatedItems Mod hinzugefügt (Fügt Sprachübersetzungen im Inventar hinzu)
-+ Energy Converters Mod hinzugefügt (Kann IC2 Strom zu anderen Stromeinheiten ändern)
++ UntranslatedItems Mod hinzugefügt
++ Energy Converters Mod hinzugefügt
 + Immersive Engineering Mod hinzugefügt
 + Industrial Wires Mod hinzugefügt (Zur Nutzen von Strommasten mit IC2 Strom)
 + TechnicalLights hinzugefügt.
