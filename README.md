@@ -22,21 +22,122 @@ Changelog 17.10.2023
 + Es wurde ein Problem behoben indem Immersive Engineering Control Panel Text nicht angezeigt wurde. (VintageFix entfernt)
 + Es wurden mehrere Probleme mit FPS einbrüchen behoben.
 
-Changelog 06.09.2023
-+ Matter Overdrive hinzugefügt (.cfg Angepasst, kein Schaden an Welt. Der Reaktor saugt nur Items ein)
-+ Lag'B'Gon Reborn (Server) hinzugefügt.
-- BetaDays (Client) entfernt.
-- ClearLagg (Server) entfernt.
-
-Changelog 04.09.2023
-+ Beta Plus Mod hinzugefügt.
-+ Chunk Animator hinzugefügt.
-+ Chisel & Bits Mod wieder hinzugefügt.
-+ Chisel & Bits Clipboard im Kreativmenü entfernt.
-+ Cities Deco Mod (SCM Mod) 3D Inventaritems in .cfg deaktiviert.
-> Einen Bug behoben indem Chiseled Bits (Chisel & Bits) Blöcke verbuggt waren.
-- FancyBlockOverlay entfernt.
-- MoBends Mod entfernt.
+Modliste:
+MixinBootstrap
+MixinBooter
+Fullbright
+SecurityCraft
+1.13-Water-Mechanics-Mod
+5zig Reborn
+Atomic Science
+AutoRegLib
+bdlib
+BetterFps
+BetterHud
+BetterTitleScreen
+BiblioCraft
+blockcraftery
+BrandonsCore
+Buildcraft
+Computercraft
+Chameleon
+Chisel
+Chisel and Bits
+Cocricot
+CodeChickenLib
+Collective
+Controlling
+CreativeCore
+CTM
+CustomWindowTitle
+Df-Roads
+Draconic-Evolution
+Dynamic Surroundings
+Effortless Building
+EnderIO
+EnergyControl
+EnergyConverters
+EngineersDecor
+ExtraSounds
+FactoryTech
+FancyBlockParticles
+FarSight
+FastFurnance
+FastWorkbench
+FCL
+FluidloggedAPI
+ForgeEndertech
+FpsReducer
+FTBBackup
+Funky Locomotion
+Furenikus Roads
+Furniture
+GoodByeGrass
+HadEnoughItems
+HopperDucts
+Hwyla
+ImmersiveEngineering
+Industrialcraft 2 Experimental
+IndustrialRenewal
+IndustrialUpgrade
+IndustrialWires
+InventoryHUD
+InventoryTweaks
+ItemZoom
+JustEnoughButtons
+KleeSlabs
+LunatriusCore
+MacroKey Keybinding
+Maleks Infinity Gauntlet
+MalsisCore 
+MalsisDoors
+Mcjtylib
+Mekanism CE
+ModernSplash
+MorePaintings
+Morph-o-Tool
+MovingElevators
+MumboRedstone
+Mysticallib
+NotEnoughIDs
+Obfuscate
+OnlinePictureFrame
+Optifine
+OreLib
+Performant
+Phosphor
+Pipeblocker
+Placebo
+Pneumaticcraft Repressurized
+Pressure Pipes
+Quark
+Quit
+Railcraft
+Reactor Turbines
+Redstone Flux
+RFTools
+RSGauges
+SCM
+Slideemall
+Smooth Scrolling Everywhere
+SmoothFont
+Sodium
+SoundReloader
+Spark Unforged
+StorageDrawers
+Surge
+Technicallights
+TexFix
+Toast Control
+Traffic Control
+TreeHarvester
+UntranslatedItems
+Vehicle
+WallpaperCraft
+Worldedit
+Xaeros Minimap
+Xaeros Worldmap
+Xray Mod v58
 
 > ChrisRolltDasModpack 2021 - 2023 ChrisRolltDasR
 > Minecraft is Copyright by Mojang AB and Microsoft.
