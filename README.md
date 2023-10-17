@@ -22,8 +22,7 @@ Changelog 17.10.2023
 + Es wurde ein Problem behoben indem Immersive Engineering Control Panel Text nicht angezeigt wurde. (VintageFix entfernt)
 + Es wurden mehrere Probleme mit FPS einbrüchen behoben.
 
->Modliste:
-
+>Modliste
 MixinBootstrap |
 MixinBooter |
 Fullbright |
