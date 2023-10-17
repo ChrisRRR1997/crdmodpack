@@ -23,7 +23,8 @@ Changelog 17.10.2023
 + Es wurden mehrere Probleme mit FPS einbrüchen behoben.
 
 >Modliste
-MixinBootstrap |
+
+| MixinBootstrap |
 MixinBooter |
 Fullbright |
 SecurityCraft |
