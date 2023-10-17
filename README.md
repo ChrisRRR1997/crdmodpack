@@ -63,7 +63,6 @@ Modliste
 + ExtraSounds
 + FactoryTech
 + FancyBlockParticles
-+ FarSight
 + FastFurnance
 + FastWorkbench
 + FCL
@@ -120,6 +119,7 @@ Modliste
 + RFTools
 + RSGauges
 + SCM
++ Shutters 2.0
 + Slideemall
 + Smooth Scrolling Everywhere
 + SmoothFont
