@@ -10,12 +10,12 @@ Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit s
 Sowohl als auch Performance & Quality of Life Improvements.
 
 Changelog 17.10.2023
-- TheSpotlight Mod
-- HBM Nuclear Tech Mod (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
-+ UntranslatedItems Mod (Fügt Sprachübersetzungen im Inventar hinzu)
-+ Immersive Engineering Mod
-+ Industrial Wires Mod
-+ TechnicalLights
+- TheSpotlight Mod entfernt
+- HBM Nuclear Tech Mod entfernt (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
++ UntranslatedItems Mod hinzugefügt (Fügt Sprachübersetzungen im Inventar hinzu)
++ Immersive Engineering Mod hinzugefügt
++ Industrial Wires Mod hinzugefügt.
++ TechnicalLights hinzugefügt.
 
 Changelog 06.09.2023
 + Matter Overdrive hinzugefügt (.cfg Angepasst, kein Schaden an Welt. Der Reaktor saugt nur Items ein)
