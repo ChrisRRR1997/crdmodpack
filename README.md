@@ -62,7 +62,6 @@ Modliste
 + EngineersDecor
 + ExtraSounds
 + FactoryTech
-+ FancyBlockParticles
 + FastFurnance
 + FastWorkbench
 + FCL
@@ -128,6 +127,7 @@ Modliste
 + Spark Unforged
 + StorageDrawers
 + Surge
++ TC Redstone
 + Technicallights
 + TexFix
 + Toast Control
