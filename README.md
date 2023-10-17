@@ -1,15 +1,21 @@
 # ChrisRolltDasModpack (CRDM)
 > MC-Version: 1.12.2
 
-> Modpack-Version: Final
+> Modpack-Version: The Defenitive Edition
 
-> Total Mods: 200 
+> Total Mods: 145 
 
 ChrisRolltDasModpack kurz (CRDM)
 Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
 Sowohl als auch Performance & Quality of Life Improvements.
 
-Modliste: Soon to be Listed!
+Changelog 17.10.2023
+- TheSpotlight Mod
+- HBM Nuclear Tech Mod (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
++ UntranslatedItems Mod (Fügt Sprachübersetzungen im Inventar hinzu)
++ Immersive Engineering Mod
++ Industrial Wires Mod
++ TechnicalLights
 
 Changelog 06.09.2023
 + Matter Overdrive hinzugefügt (.cfg Angepasst, kein Schaden an Welt. Der Reaktor saugt nur Items ein)
