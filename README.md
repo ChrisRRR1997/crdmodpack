@@ -14,7 +14,7 @@ Changelog 17.10.2023
 - Farsight entfernt
 - HBM Nuclear Tech Mod entfernt (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
 + UntranslatedItems Mod hinzugefügt
-+ Energy Converters Mod hinzugefügt
++ Flux Networks hinzugefügt
 + Immersive Engineering Mod hinzugefügt
 + Shutters 2.0 hinzugefügt.
 + Industrial Wires Mod hinzugefügt (Zur Nutzen von Strommasten mit IC2 Strom)
@@ -58,13 +58,13 @@ Modliste
 + Effortless Building
 + EnderIO
 + EnergyControl
-+ EnergyConverters
 + EngineersDecor
 + ExtraSounds
 + FactoryTech
 + FastFurnance
 + FastWorkbench
 + FCL
++ Flux Networks
 + FluidloggedAPI
 + ForgeEndertech
 + FpsReducer
@@ -123,6 +123,7 @@ Modliste
 + Smooth Scrolling Everywhere
 + SmoothFont
 + Sodium
++ Sonar Core
 + SoundReloader
 + Spark Unforged
 + StorageDrawers
