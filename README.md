@@ -19,6 +19,8 @@ Changelog 25.10.2023
 + ImmersivePosts hinzugeügt.
 + ColoredTooltips hinzugefügt.
 + NuclearCraft hinzugefügt.
++ ExtraBitManipulation hinzugefügt.
+- Inventory Tweaks entfernt (Quark)
 
 Configänderungen:
 + Mekanism: Es wurde eine Änderungen vorgenommen die Kosmetische Blockschäden erlaubt hat!)
