@@ -3,26 +3,23 @@
 
 > Modpack-Version: The Defenitive Edition
 
-> Total Mods: 145 
+> Total Mods: 149
 
 ChrisRolltDasModpack kurz (CRDM)
 Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
 Sowohl als auch Performance & Quality of Life Improvements.
 
-Changelog 17.10.2023
-- TheSpotlight Mod entfernt
-- Farsight entfernt
-- HBM Nuclear Tech Mod entfernt (Instabil und so noch nicht Nutzbar, liegt jedoch am Originalen Modporter von 1.7 auf 1.12)
-+ UntranslatedItems Mod hinzugefügt
-+ Flux Networks hinzugefügt
-+ Immersive Engineering Mod hinzugefügt
-+ Shutters 2.0 hinzugefügt.
-+ Industrial Wires Mod hinzugefügt (Zur Nutzen von Strommasten mit IC2 Strom)
-+ TechnicalLights hinzugefügt.
-+ Es wurde ein Problem behoben indem Texturepacks sich nichtmehr laden ließen.
-+ Es wurde ein Problem behoben indem die Texturen des Energy Converters verbuggt waren.
-+ Es wurde ein Problem behoben indem Immersive Engineering Control Panel Text nicht angezeigt wurde. (VintageFix entfernt)
-+ Es wurden mehrere Probleme mit FPS einbrüchen behoben.
+Changelog 25.10.2023
++ Aqua Acrobatics hinzugefügt (1.13+ Schwimmmechaniken)
++ Extreme Reactors hinzugefügt
++ DynamicTrees hinzugefügt
++ ImmersivePosts hinzugeügt.
++ ColoredTooltips hinzugefügt.
++ NuclearCraft hinzugefügt.
+- HopperDucts entfernt.
+
+Configänderungen:
++ Mekanism (Es wurde eine Änderungen vorgenommen die Kosmetische Blockschäden erlaubt hat!)
 
 Modliste
 + MixinBootstrap
