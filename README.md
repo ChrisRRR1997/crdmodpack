@@ -19,10 +19,11 @@ Changelog 25.10.2023
 + ImmersivePosts hinzugeügt.
 + ColoredTooltips hinzugefügt.
 + NuclearCraft hinzugefügt.
-- HopperDucts entfernt.
 
 Configänderungen:
-+ Mekanism (Es wurde eine Änderungen vorgenommen die Kosmetische Blockschäden erlaubt hat!)
++ Mekanism: Es wurde eine Änderungen vorgenommen die Kosmetische Blockschäden erlaubt hat!)
++ Extreme Reactors: Es wurde eine Veränderung vorgenommen das Partikel aus den Reaktoren (Clientseitig) nichtmehr angezeigt werden (Performance)
++ Atomic Sciene: Es wurde Serverseitig ausgeschaltet das Partikel erzeugt werden (Performance)
 
 Modliste
 + MixinBootstrap
