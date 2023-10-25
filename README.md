@@ -10,7 +10,7 @@ Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit s
 Sowohl als auch Performance & Quality of Life Improvements.
 
 Für die Zukunft geplant
-+ ChrisRolltDasR Additions (150 Mods) (Hinzufügen von eigenen Alarmen, Ideen und mehr)
++ ChrisRolltDasR Additions (150 Mods) (Hinzufügen von eigenen Alarmen, Ideen und mehr) 
 
 Changelog 25.10.2023
 + Aqua Acrobatics hinzugefügt (1.13+ Schwimmmechaniken)
