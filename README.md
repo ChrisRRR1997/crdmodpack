@@ -1,4 +1,4 @@
-# Monoton
+# Monoton Modpack
 > MC-Version: 1.12.2
 
 > Modpack-Version: The Defenitive Edition
