@@ -1,16 +1,16 @@
-# ChrisRolltDasModpack (CRDM)
+# Monoton
 > MC-Version: 1.12.2
 
 > Modpack-Version: The Defenitive Edition
 
 > Total Mods: 149
 
-ChrisRolltDasModpack kurz (CRDM)
+Das Monoton Modpack (Ist ein Privates und nicht Veröffentliches Modpack)
 Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
 Sowohl als auch Performance & Quality of Life Improvements.
 
 Für die Zukunft geplant
-+ ChrisRolltDasR Additions (150 Mods) (Hinzufügen von eigenen Alarmen, Ideen und mehr) 
++ Monoton Additions (150 Mods) (Hinzufügen von eigenen Alarmen, Ideen und mehr) 
 
 Changelog 25.10.2023
 + Aqua Acrobatics hinzugefügt (1.13+ Schwimmmechaniken)
@@ -145,6 +145,6 @@ Modliste
 + Xaeros Worldmap
 + Xray Mod v58
 
-> ChrisRolltDasModpack 2021 - 2023 ChrisRolltDasR
+> Monoton Modpack 2021 - 2023 Monoton.
 > Minecraft is Copyright by Mojang AB and Microsoft.
 > All Mods belong to Respektive Mod Creators.
