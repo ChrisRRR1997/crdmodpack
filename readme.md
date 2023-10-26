@@ -36,6 +36,7 @@ Modliste
 + 5zig Reborn
 + Atomic Science
 + AutoRegLib
++ Aqua Acrobatics
 + bdlib
 + BetterFps
 + BetterHud
@@ -52,6 +53,7 @@ Modliste
 + CodeChickenLib
 + Collective
 + Controlling
++ Colored Tooltips
 + CreativeCore
 + CTM
 + CustomWindowTitle
@@ -62,6 +64,8 @@ Modliste
 + EnderIO
 + EnergyControl
 + EngineersDecor
++ Extreme Reactors
++ Extra Bit Manipulation
 + ExtraSounds
 + FactoryTech
 + FastFurnance
@@ -79,13 +83,13 @@ Modliste
 + HadEnoughItems
 + HopperDucts
 + Hwyla
-+ ImmersiveEngineering
++ Immersive Engineering
++ Immersive Posts
 + Industrialcraft 2 Experimental
 + IndustrialRenewal
 + IndustrialUpgrade (Old IC2 Version)
 + IndustrialWires
 + InventoryHUD
-+ InventoryTweaks
 + ItemZoom
 + JustEnoughButtons
 + KleeSlabs
@@ -102,6 +106,7 @@ Modliste
 + MovingElevators
 + MumboRedstone
 + Mysticallib
++ Nuclearcraft
 + NotEnoughIDs
 + Obfuscate
 + OnlinePictureFrame
