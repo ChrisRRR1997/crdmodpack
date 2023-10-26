@@ -95,7 +95,6 @@ Modliste
 + KleeSlabs
 + LunatriusCore
 + MacroKey Keybinding
-+ Maleks Infinity Gauntlet
 + MalsisCore 
 + MalsisDoors
 + Mcjtylib
