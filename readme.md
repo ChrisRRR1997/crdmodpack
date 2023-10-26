@@ -108,7 +108,6 @@ Modliste
 + Nuclearcraft
 + NotEnoughIDs
 + Obfuscate
-+ OnlinePictureFrame
 + Optifine
 + OreLib
 + Performant
