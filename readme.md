@@ -3,29 +3,24 @@
 
 > Modpack-Version: The Defenitive Edition
 
-> Total Mods: 149
+> Total Mods: 150
 
 Das Monoton Modpack (Ist ein Privates und nicht Veröffentliches Modpack)
 Soll dem Spieler Kreativität & Funktionstüchtige Umgebung ermöglichen somit sind Kreativitättechnisch keine Grenzen gesetzt! 🙃
 Sowohl als auch Performance & Quality of Life Improvements.
 
-Für die Zukunft geplant
-+ Monoton Additions (150 Mods) (Hinzufügen von eigenen Alarmen, Ideen und mehr) 
-
-Changelog 25.10.2023
-+ Aqua Acrobatics hinzugefügt (1.13+ Schwimmmechaniken)
-+ Extreme Reactors hinzugefügt
-+ DynamicTrees hinzugefügt
-+ ImmersivePosts hinzugeügt.
-+ ColoredTooltips hinzugefügt.
-+ NuclearCraft hinzugefügt.
-+ ExtraBitManipulation hinzugefügt.
-- Inventory Tweaks entfernt (Quark)
-
-Configänderungen:
-+ Mekanism: Es wurde eine Änderungen vorgenommen die Kosmetische Blockschäden erlaubt hat!)
-+ Extreme Reactors: Es wurde eine Veränderung vorgenommen das Partikel aus den Reaktoren (Clientseitig) nichtmehr angezeigt werden (Performance)
-+ Atomic Sciene: Es wurde Serverseitig ausgeschaltet das Partikel erzeugt werden (Performance)
+Changelog 26.10.2023 (Buildcraft Öl Fix & Builders Update)
+- Dynamic Trees entfernt.
+- Nuclearcraft entfernt. (Aufgrund genug vorhandender Techmods)
+- Buildcraft-All entfernt (Aufgrund von Bugs von Öl, Ausgelöst durch Optifine)
++ Buildcraft-Core, Builders, Factory & Transport hinzugefügt. Keine Ölgeneration mehr! :)
++ Dawn of Time (Builders Edition) hinzugefügt.
++ Cathedral hinzugefügt. (Idee für Mark)
++ Immersive Petroleum hinzugefügt.
++ Immersive Technology hinzugefügt.
++ MultiBuilderTool hinzugefügt.
++ FancyBlockOverlay hinzugefügt.
++ FancyBlockParticles hinzugefügt.
 
 Modliste
 + MixinBootstrap
